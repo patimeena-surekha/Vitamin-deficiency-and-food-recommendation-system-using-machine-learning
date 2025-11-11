@@ -1,0 +1,2 @@
+# Vitamin-deficiency-and-food-recommendation-system-using-machine-learning
+The Vitamin Deficiency and Food Recommendation System is an intelligent machine learning-based application designed to analyze user symptoms and predict possible vitamin deficiencies. Based on the detected deficiency, the system recommends foods rich in the required vitamins to help maintain a balanced diet and improve overall health.
